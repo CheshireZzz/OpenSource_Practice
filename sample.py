@@ -5,5 +5,4 @@ for i in range(5):
 	print('')
 '''
 'CheshireZzz'
-'Cheshire'
 print("This is modified file")
